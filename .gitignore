@@ -1,0 +1,9 @@
+.idea
+.ipynb_checkpoints
+data_prep - New_Zealand.ipynb
+ten_splits.ipynb
+Other notebooks
+data
+imgs
+out
+*/__pycache__
