@@ -1,11 +1,17 @@
 Revised Graph transformer for Extreme Event Prediction
 
+
+Objective: 
+
+Predict landslide extents (regression) on a highly right-skewed distribution dataset
+
+
 Reproducibility:
 
 1 - Adjust the preferred parameters for the dataset parameters and model settings in configs/SU_params.json
 2 - Run data_prep.ipynb
 3 - Run main.py
-4 - (optional) Run pred_visualisation.ipynb to visualise the spatial distribution of predictions
+4 - Run pred_visualisation.ipynb to visualise the spatial distribution of predictions
 
 
 	Parameter description:

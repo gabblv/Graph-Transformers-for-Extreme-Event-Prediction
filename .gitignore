@@ -1,7 +1,7 @@
 .idea
 .ipynb_checkpoints
 data_prep - New_Zealand.ipynb
-ten_splits.ipynb
+make_deciles.ipynb
 Other notebooks
 data
 imgs
